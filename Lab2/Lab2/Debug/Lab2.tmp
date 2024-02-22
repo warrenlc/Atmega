@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\Debug\Lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2.map</FILE>
+  <FILE>Lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>16</LINE></INIT>
+  <MORSE><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>33</LINE></MORSE>
+  <MESSAGE><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>99</LINE></MESSAGE>
+  <SEND><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>37</LINE></SEND>
+  <DONE><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>97</LINE></DONE>
+  <UNTIL_STOP_BIT><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>51</LINE></UNTIL_STOP_BIT>
+  <SPACE><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>44</LINE></SPACE>
+  <SPACE_><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>72</LINE></SPACE_>
+  <BEEP><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>56</LINE></BEEP>
+  <REST><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>81</LINE></REST>
+  <CONTINUE><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>61</LINE></CONTINUE>
+  <NOBEEP><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>75</LINE></NOBEEP>
+  <END><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>70</LINE></END>
+  <PAUSE_1><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>84</LINE></PAUSE_1>
+  <PAUSE_2><FILE>C:\Users\warren\Documents\Atmel Studio\7.0\tsiu02\Lab2\Lab2\main.asm</FILE><LINE>90</LINE></PAUSE_2>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\Debug\Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3.map</FILE>
+  <FILE>Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>27</LINE></INIT>
+  <BCD><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>59</LINE></BCD>
+  <MUX><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>106</LINE></MUX>
+  <TIME><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>21</LINE></TIME>
+  <POS><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>22</LINE></POS>
+  <INIT_PORTS><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>33</LINE></INIT_PORTS>
+  <INIT_TIME><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>38</LINE></INIT_TIME>
+  <INTERRUPT_CONFIG><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>46</LINE></INTERRUPT_CONFIG>
+  <MAIN><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>54</LINE></MAIN>
+  <BCD_LOOP><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>70</LINE></BCD_LOOP>
+  <BCD_SAVE><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>82</LINE></BCD_SAVE>
+  <BCD_GO_AGAIN><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>91</LINE></BCD_GO_AGAIN>
+  <BCD_DONE><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>97</LINE></BCD_DONE>
+  <DISPLAY_BITS><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>158</LINE></DISPLAY_BITS>
+  <MUX_DONE><FILE>X:\tsiu02\tsiu02\Lab3\Lab3\Lab3\main.asm</FILE><LINE>143</LINE></MUX_DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
